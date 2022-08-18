@@ -10,7 +10,6 @@ function App() {
             <Header titleForHeader={'New Header'}/>
             <Body titleForBody={'New Body'}/>
             <Footer titleForFooter={'New Footer'}/>
-
         </>
 )
 }
